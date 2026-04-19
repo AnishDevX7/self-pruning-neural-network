@@ -31,10 +31,10 @@ Increasing λ reduces model accuracy while slightly improving sparsity, showing 
 
 ## Gate Distribution (Different Lambda Values)
 ### λ = 0.0001
-![Lambda 0.0001](graph_lambda_0.0001.png)
+![Lambda 0.0001](graph_lambda_0.0001.jpg)
 
 ### λ = 0.001
-![Lambda 0.001](graph_lambda_0.001.png)
+![Lambda 0.001](graph_lambda_0.001.jpg)
 
 ### λ = 0.01
-![Lambda 0.01](graph_lambda_0.01.png)
+![Lambda 0.01](graph_lambda_0.01.jpg)
